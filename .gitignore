@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.terraform/
+.build/
+*.tfstate
+*.tfstate.*
+mac_backend_override.tf
+.env
